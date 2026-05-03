@@ -34,7 +34,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Valacy4&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Valacy4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valacy4&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
@@ -43,7 +43,7 @@
 <h2 align="center">🔥 GitHub Activity Streak</h2>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Valacy4&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Valacy4&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -57,7 +57,6 @@
  <br>
 🔹 <a href="https://github.com/Valacy4/Movie_Explorer_using_API"><b>Movie Explorer using API</b></a> <br>
 </div>
-
 
 ---
 
